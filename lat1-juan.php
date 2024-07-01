@@ -7,5 +7,7 @@ echo "hai dunia";
 //perintah untuk upload atau push
 //3. git push -u origin master
 // push adalah perintah, origin adalah nama remote
-//master adalah nama branch
+//master adalah nama 
+//4. ini adalah modify dari saya
+//5. dengan menambahkan file baru
 ?>
